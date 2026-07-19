@@ -11,33 +11,26 @@
 
 ---
 
-## English Documentation
+## Documentation / 文档
 
-| Document | Status | Description |
-|----------|--------|-------------|
-| [Protocol Overview](en/PROTOCOL.md) | ✅ V0.1 | Protocol overview and positioning |
-| [Query Mechanism](en/V0.1/02-query-mechanism.md) | ✅ Verified | Query-calibrate-confirm loop |
-| [Probabilistic Determinism](en/V0.1/03-probabilistic-determinism.md) | ✅ Verified | Epistemological basis for rejecting confidence scores |
+| Document | 文档 | Status | 说明 |
+|----------|------|--------|------|
+| [Protocol Overview](en/PROTOCOL.md) | [协议总览](PROTOCOL.md) | ✅ V0.1 | Protocol positioning / 协议定位 |
+| [Architecture](en/ARCHITECTURE.md) | [架构白皮书](ARCHITECTURE.md) | ✅ V0.1 | System whitepaper / 系统白皮书 |
+| [Query Mechanism](en/V0.1/02-query-mechanism.md) | [追问机制](V0.1/02-query-mechanism.md) | ✅ Verified | Rule engine + cognitive contract / 规则引擎+认知契约 |
+| [Probabilistic Determinism](en/V0.1/03-probabilistic-determinism.md) | [概率确定](V0.1/03-probabilistic-determinism.md) | ✅ Verified | Reject confidence scores / 拒绝置信度 |
+| — | [上下文编排器](V0.2-draft/05-attention-hierarchy.md) | 📝 Draft | Attention hierarchy / 四层注意力位阶 |
+| — | [人机协作范式](theory/书童_人机协作范式_v0.1.md) | ✅ V0.1 | Value proposition / 价值主张 |
+| — | [概率确定认识论](theory/概率确定_一个认识论立场_v0.1.md) | ✅ V0.1 | Epistemology / 认识论立场 |
 
-## 中文文档
+> 第三阶段文档（架构白皮书英文版、理论文档英文版）待补充。
+> Phase 3 English translations (architecture, theory) pending.
 
-| 文档 | 状态 | 说明 |
-|------|------|------|
-| [协议总览](PROTOCOL.md) | ✅ V0.1 | 协议总览与定位 |
-| [架构白皮书](ARCHITECTURE.md) | ✅ V0.1 | 系统白皮书与实现参考 |
-| [追问机制](V0.1/02-query-mechanism.md) | ✅ 已验证 | 追问-校准-确认闭环 |
-| [概率确定](V0.1/03-probabilistic-determinism.md) | ✅ 已验证 | 拒绝置信度的认识论基础 |
-| [上下文编排器](V0.2-draft/05-attention-hierarchy.md) | 📝 设计草案 | 四层注意力位阶 |
-| [人机协作范式](theory/书童_人机协作范式_v0.1.md) | ✅ V0.1 | 价值主张与交互范式 |
-| [概率确定认识论](theory/概率确定_一个认识论立场_v0.1.md) | ✅ V0.1 | 认识论立场 |
-
-## Reference Implementation
+## Reference Implementation / 参考实现
 
 [ShuTong Demo](https://github.com/VZIQAQ/shutong) — the first verification implementation of ShuTong Protocol V0.1.
 
-## 参考实现
-
-[书童 Demo](https://github.com/VZIQAQ/shutong) — 书童协议 V0.1 的第一个验证实现。
+书童协议 V0.1 的第一个验证实现。
 
 ## License
 
