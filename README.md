@@ -22,6 +22,8 @@
 | — | [上下文编排器](V0.2-draft/05-attention-hierarchy.md) | 📝 Draft | Attention hierarchy / 四层注意力位阶 |
 | — | [人机协作范式](theory/书童_人机协作范式_v0.1.md) | ✅ V0.1 | Value proposition / 价值主张 |
 | — | [概率确定认识论](theory/概率确定_一个认识论立场_v0.1.md) | ✅ V0.1 | Epistemology / 认识论立场 |
+| [Positioning](POSITIONING.md) | [定位声明](POSITIONING.md) | — | Cognitive vs execution layer / 认知层 vs 执行层边界 |
+| [V0.2 Draft](V0.2-draft/) | [V0.2 草案](V0.2-draft/) | 📝 Draft | Model-embedded judgment / 认知状态机 / 上下文编排器V2 |
 
 > 第三阶段文档（架构白皮书英文版、理论文档英文版）待补充。
 > Phase 3 English translations (architecture, theory) pending.
